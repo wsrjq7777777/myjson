@@ -45,7 +45,7 @@
       "dstURL": "cdn.jsdelivr.net/gh/jiacai2050/gooreplacer@gh-pages/proxy/plusone.js",
       "kind": "wildcard",
       "enable": true
-    }
+    },
     "https://i.stack.imgur.com/*": {
       "dstURL":"https://images.weserv.nl/?url=$1",
       "kind": "wildcard",
